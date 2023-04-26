@@ -8,6 +8,6 @@ inside the bodies and slow down the thermalization dynamic. Our results can have
 repercusions and applications in hyperthermia photothermal cancer treatment, since it has been
 shown that hyperbolic equations better describe the energy transfer in this type of medium.
 
-\begin{equation}\label{eq:cv1}
+$$
 -\kappa \nabla  T = \vec{q} + \tau \frac{\partial q}{\partial t} 
-\end{equation}
+$$

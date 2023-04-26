@@ -11,6 +11,6 @@ inside the bodies and slow down the thermalization dynamic. Our results can have
 repercusions and applications in hyperthermia photothermal cancer treatment, since it has been
 shown that hyperbolic equations better describe the energy transfer in this type of medium. We solve the 1-D case in which the energy balance
 equation can be written as
-$$ \frac{\partial u}{\partial t} = \Phi_c +  \Phi_r.$$
-where $u$ is the energy density in the body, $\Phi_c$ and $\Phi_r$ are the heat flux contribution to conduction and radiation respectively. Further references can be found on the soon to be published work "Thermalization of Non-Fourier Hyperbolic Bodies in the
-Near-field". 
+$$ \frac{\partial u}{\partial t} = \Phi_c +  \Phi_r $$
+where $u$ is the energy density in the body, $\Phi_c$ and $\Phi_r$ are the heat flux contribution to conduction and radiation respectively. Further references can be found on the soon to be published work :Thermalization of Non-Fourier Hyperbolic Bodies in the
+Near-field. 

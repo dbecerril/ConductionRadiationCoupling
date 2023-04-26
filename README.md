@@ -4,9 +4,9 @@ composed of hyperbolic materials described by the Cattane-Vernotte equation,  ex
 to Fourier materials Non-Fourier hyperbolic materials do not assume an instant response between
 the temperature gradiend and heat flux. The Cattaneo-Vernotte heat conduction equation can be written as
 
-$$-\kappa \nabla  T = \vec{q} + \tau \frac{\partial q}{\partial t} $$
+$$-\kappa \nabla  T = \vec{q} + \tau \frac{\partial \vec{q}}{\partial t} $$
 
-where the second term on the right hand side is a first order approximation to the time lag in heat conduction and the time response $\tau$ depends on the
+where $\kappa$ is material thermal conductivity, $\vec{q}$ the heat flux,$\tau$ the material response time and where the second term on the right hand side is a first order approximation to the time lag in heat conduction which  depends on the
 given material. This time delay can alter the temperature distribution
 inside the bodies and slow down the thermalization dynamic. Our results can have important
 repercusions and applications in hyperthermia photothermal cancer treatment, since it has been

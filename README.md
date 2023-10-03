@@ -6,7 +6,7 @@ the temperature gradiend and heat flux. The Cattaneo-Vernotte heat conduction eq
 
 $$-\kappa \nabla  T = \vec{q} + \tau \frac{\partial \vec{q}}{\partial t} $$
 
-where $\kappa$ is material thermal conductivity, $\vec{q}$ the heat flux, $\tau$ the material response time and where the second term on the right hand side is a first order approximation to the time lag in heat conduction which  depends on the
+where $\kappa$ is material thermal conductivity, $\vec{q}$ the heat flux, $ \tau $ the material response time and where the second term on the right hand side is a first order approximation to the time lag in heat conduction which  depends on the
 given material. This time delay can alter the temperature distribution
 inside the bodies and slow down the thermalization dynamic. Our results can have important
 repercusions and applications in hyperthermia photothermal cancer treatment, since it has been

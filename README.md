@@ -19,6 +19,7 @@ where $u$ is the energy density in the body, $$\Phi_c$ and $\Phi_r$$ are the hea
 The solution to the temperature dynamics  in each body can be founbd as a sum of thermal modes.
 The python code carries out an analysis of the mode lifetimes for a given set of geometrical and dielectrical parameters. For further discussion see _Transient effects in the coupling of thermal radiation and non-Fourier heat transport at the nano-scale_
 
-# D. Becerril acknowledges financial support from the Mexico City Ministry of Education, Science, Technology and Innovation.
+# Acknowledgment
+D. Becerril acknowledges financial support from the Mexico City Ministry of Education, Science, Technology and Innovation.
 
 

@@ -20,6 +20,6 @@ The solution to the temperature dynamics  in each body can be founbd as a sum of
 The python code carries out an analysis of the mode lifetimes for a given set of geometrical and dielectrical parameters. For further discussion see _Transient effects in the coupling of thermal radiation and non-Fourier heat transport at the nano-scale_
 
 # Acknowledgment
-D. Becerril acknowledges financial support from the Mexico City Ministry of Education, Science, Technology and Innovation.
+D. Becerril acknowledges financial support from the Mexico City Ministry of Education, Science, Technology and Innovation (2023).
 
 

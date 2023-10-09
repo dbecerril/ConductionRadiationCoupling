@@ -17,7 +17,7 @@ $$\frac{ \partial u}{\partial t}  = \Phi_c +  \Phi_r$$
 where $u$ is the energy density in the body, $$\Phi_c$ and $\Phi_r$$ are the heat flux contribution to conduction and radiation respectively.
 ## Mode Analysis
 The solution to the temperature dynamics  in each body can be founbd as a sum of thermal modes:
-$ f(x) $
+$$ f(x) $$
 
 The python code carries out an analysis of the mode lifetimes for a given set of geometrical and dielectrical parameters
 ## Reference
